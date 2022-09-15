@@ -1,0 +1,18 @@
+@import "./variables.scss";
+
+
+.canvas {
+    height: 100vh;
+    // display: flex;
+    // justify-content: center;
+    // align-items:  flex-end;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+canvas {
+    // border: 1px solid black;
+    box-sizing: border-box;
+    background-color: white;
+
+}
