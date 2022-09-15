@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/220915-simple-paint/static/css/main.b9891f6b.css",
+    "main.js": "/220915-simple-paint/static/js/main.e6670e38.js",
+    "index.html": "/220915-simple-paint/index.html",
+    "main.b9891f6b.css.map": "/220915-simple-paint/static/css/main.b9891f6b.css.map",
+    "main.e6670e38.js.map": "/220915-simple-paint/static/js/main.e6670e38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9891f6b.css",
+    "static/js/main.e6670e38.js"
+  ]
+}
